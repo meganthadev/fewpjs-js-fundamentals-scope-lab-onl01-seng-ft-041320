@@ -1,6 +1,5 @@
 const animal = "dog"
-/*const two = 2
-*/
+
 function myAnimal() {
   return animal
 }
